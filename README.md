@@ -14,6 +14,8 @@ https://github.com/lmenezes/cerebro
 
 - https://github.com/Global-Solutions/docker-cerebro/blob/master/Dockerfile
 
+Size:
+
     jecnua/cerebro v2 f3d1643a3c37 34 hours ago 149 MB # java:openjdk-8u111-jre-alpine
     jecnua/cerebro v1 c48ec58596ca 34 hours ago 349 MB #
 
