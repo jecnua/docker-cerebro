@@ -22,3 +22,13 @@ This approach is a much lighter docker image.
 ### Third try
 
 FIX: [warn] application - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+
+
+## Problem: change configuration
+
+Possible way out?
+
+https://github.com/orgsync/docker-cerebro/blob/master/bin/pre-start
+
+Why multiple RUN
+faster build/debug
