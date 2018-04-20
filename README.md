@@ -43,7 +43,7 @@ Interactive:
     docker run -it \
     -e ELASTICSEARCH_URL=http://es5.test.co.uk \
     -p 9000:9000 \
-    jecnua/cerebro:dev
+    jecnua/cerebro:dev-latest
 
 ## TODO
 
